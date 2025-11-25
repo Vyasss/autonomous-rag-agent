@@ -124,7 +124,7 @@ Created by [Chetan Vyas]
 
 Since I wrote `pip install -r requirements.txt` in the README, you need to create that file so others (and recruiters) know what libraries to install.
 
-**Create a file named `requirements.txt` and paste this inside:**
+Create a file named `requirements.txt` and paste this inside:
 
 ```text
 fastapi
